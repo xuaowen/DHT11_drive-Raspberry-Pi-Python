@@ -1,4 +1,4 @@
-DHT11_drive-Raspberry-Pi-PythonDHT11 
+# DHT11_drive-Raspberry-Pi-PythonDHT11 
 湿度温度传感器 驱动
 
 使用方法： 接线 DHT11的三个引脚(如果是四个引脚NC不连接) VCC接5V GND接地 数据D接任意树莓派GPIO口
